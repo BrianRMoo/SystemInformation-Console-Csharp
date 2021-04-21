@@ -1,4 +1,7 @@
 # SystemInformation
 Written in C# for the purpose of gathering needed system information.
 
-This project is a learning experience as it will eventually have an UWP interface with real-time updates such as CPU load, avaiable ram, etc.
+This is a learning project with the intention of being rewritten in C++. Python, Java, Javascript and maybe more.
+
+
+Shows basic system information in the console including CPU name, architecture, GPU name, Disk space, disk used and network information
